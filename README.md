@@ -7,7 +7,6 @@ Safronov Maxim
 VK: https://vk.com/ytatichno
 Telegram: @ytatichno
 mail: ytatichno@gmail.com
-Stepik: https://stepik.org/users/63832846
 Stackoverflow: https://stackoverflow.com/users/14892707/ytatichno
 
 <!---
