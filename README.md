@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ytatichno
+- 👋 Hi, I’m CTO of DisCom
+@ytatichno
 Safronov Maxim
-- 👀 I’m interested in study 
-- 🌱 I’m currently learning machine-learning
-- 💞️ I’m looking to collaborate on small projects
+from CMC MSU(Russia)
+- 👀 I’m interested in study(Kotlin, Python, Java, C++, MASM)
+- 🌱 I’m currently learning Assembler(((
 - 📫 How to reach me
 VK: https://vk.com/ytatichno
 Telegram: @ytatichno
