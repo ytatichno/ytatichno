@@ -1,10 +1,10 @@
-- 👋 Hi, I’m CTO of DisCom
+- 👋 Hi, I’m student
 @ytatichno
 Safronov Maxim
 from CMC MSU(Russia)
-- 👀 I’m interested in study(Kotlin, Python, Java, C++, MASM)
-- 🌱 I’m currently learning Assembler(((
-- 📫 How to reach me
+- 👀 I’m interested in study(Java, Kotlin, Python, C++)
+- 🌱 I’m currently learning C for UNIX
+- 📫 How to reach me:
 VK: https://vk.com/ytatichno
 Telegram: @ytatichno
 mail: ytatichno@gmail.com
