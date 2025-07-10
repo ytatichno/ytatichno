@@ -1,9 +1,8 @@
-- 👋 Hi, I’m student
+- 👋 Hi, I’m developer
 @ytatichno
 Safronov Maxim
-from CMC MSU(Russia)
 - 👀 I’m interested in study(Java <img align="baseline" width="2.8%" height="1.4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> ,  Kotlin   <img align="baseline" width="2%" height="1.2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />   ,  Python <img   align="baseline"  width="2.2%" height="1.2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> , C++ <img align="baseline" width="2%" height="1.2%" src="https://isocpp.org/assets/images/cpp_logo.png" /> )
-- 🌱 I’m currently learning C++  <img align="baseline" width="2%" height="1.2%" src="https://isocpp.org/assets/images/cpp_logo.png" /> with my OOP university course
+- 🌱 I’m currently working as Java  <img align="baseline" width="2.8%" height="1.4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Backend developer
 - 📫 How to reach me:
 VK: https://vk.com/ytatichno
 Telegram: @ytatichno
