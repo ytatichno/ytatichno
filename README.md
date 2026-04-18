@@ -6,6 +6,7 @@ Safronov Maxim, CS bachelor
 - 👀 I’m interested in Computer Science 💡, <b>Java</b> <img align="baseline" width="2.8%" height="1.4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> ,  Kotlin   <img align="baseline" width="2%" height="1.2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />   , C++ <img align="baseline" width="2%" height="1.2%" src="https://isocpp.org/assets/images/cpp_logo.png" /> 
 - ⚙️ I’m currently working as Senior Java  <img align="baseline" width="2.8%" height="1.4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> developer
 - 🌱 I’m studying some SRE and problems of scaling Data-Intensive Distributed Systems
+- 🤓 My interests also: Profiling, Compilers, HPC, ML
 
 📫 How to reach me:
 
